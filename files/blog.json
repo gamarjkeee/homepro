@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "img/blog/01.jpg",
+      "title": "Understanding Smart Home Systems & Maintenance",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Architecture": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 2,
+      "image": "img/blog/02.jpg",
+      "title": "The Ultimate Guide to Home Repairs and Renovations",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 3,
+      "image": "img/blog/03.jpg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Architecture": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 4,
+      "image": "img/blog/02.jpg",
+      "title": "Understanding Smart Home Systems & Maintenance",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Architecture": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 5,
+      "image": "img/blog/03.jpg",
+      "title": "The Ultimate Guide to Home Repairs and Renovations",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 6,
+      "image": "img/blog/01.jpg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Architecture": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 7,
+      "image": "img/blog/03.jpg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Plumbing": "https://www.youtube.com/",
+        "Architecture": "https://www.youtube.com/",
+        "Maintenance": "https://www.youtube.com/"
+      }
+    },
+    {
+      "id": 8,
+      "image": "img/blog/01.jpg",
+      "title": "Painting Techniques for a Kitchen Refresh",
+      "url": "https://www.youtube.com/",
+      "date": "19 Jan 2023",
+      "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+      "labels": {
+        "Maintenance": "https://www.youtube.com/"
+      }
+    }
+  ]
+}
